@@ -73,4 +73,4 @@ It also calculates the **average age** and displays it at the bottom of the tabl
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Pranchal Singh**
